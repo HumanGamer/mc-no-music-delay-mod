@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin.client",
+	"package": "com.hgnomusicdelay.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"MusicTrackerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
